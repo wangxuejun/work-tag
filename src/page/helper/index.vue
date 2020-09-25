@@ -35,7 +35,7 @@ export default {
     // apiGetCatalog().then(res => {
     //   console.log(res)
     //   this.list = res.data
-    // })
+    // })11111
   },
   methods: {
     run (index) {
