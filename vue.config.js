@@ -4,7 +4,7 @@ module.exports = {
   ],
   devServer: {
     port: '8080',
-    open: false,
+    open: 'google chrome',
     proxy: {
       '/api': {
         // 比如说目标服务器的请求路径为 http://localhost:3000/list
